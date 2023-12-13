@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606412747508",
+    "project_id": "labtuto4-razin",
+    "storage_bucket": "labtuto4-razin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606412747508:android:4d8d95cb45e297dd01e4a1",
+        "android_client_info": {
+          "package_name": "com.example.labtuto4_razin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyMLHdiPDZFSGVmvBiCudNCf9M5REBaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
