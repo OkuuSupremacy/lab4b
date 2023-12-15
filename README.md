@@ -47,4 +47,4 @@ List of some things to do that is not included in video.
 3. include bumptech in build.gradle.kts(:app) in dependencies block. Need to paste: implementation("com.github.bumptech.glide:glide:4.16.0")\
 >[!NOTE]
 >**WATCH THE VIDEO until the point where you have to use tvImageName for the first time in ImageListAdapter.java**
-4. In ImageListAdapter.java, need to import tvImageName by copy/paste import static com.example.(your project name).tvImageName;
+4. In ImageListAdapter.java, need to import tvImageName by copy/paste: import static com.example.(your project name).tvImageName;
