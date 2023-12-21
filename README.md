@@ -1,4 +1,4 @@
-**Part 1**\
+# **Part 1**
 getDownloadUrl() function is deprecated.
 Complete the video first, then replace this code:
 [^1]:
@@ -38,7 +38,7 @@ ref.putFile(imgUri).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSn
 })
 ```
 
-**Part 2**\
+# **Part 2**
 List of some things to do that is not included in video. 
 >[!WARNING]
 >This list may not be complete.
